@@ -1,3 +1,3 @@
-function showMessage() { 
+function showAlert() { 
     console.log("Hi!");
 }
